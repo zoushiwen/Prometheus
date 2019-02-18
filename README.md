@@ -1,10 +1,6 @@
 ###  Grafana v5.4.2 +  node_exporter 0.16 、node_exporter 0.17 测试使用正常。
 使用 Node Exporter v0.17，以实用为主，精简优化重要指标进行展示。  
 包含：CPU 内存 磁盘 IO 网络 流量 温度等监控指标。  
-##### 截图
-![](https://raw.githubusercontent.com/starsliao/Prometheus/master/screenshot.jpg)
-##### 关注公众号【**全栈运维开发 Python & Vue**】获取更多...
-![](https://raw.githubusercontent.com/starsliao/Prometheus/master/qr.png)
 #### 注意事项：
 ##### 需要安装饼图的插件：
 ```
